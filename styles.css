@@ -1,0 +1,53 @@
+/* Glyphicons size*/
+
+.glyphicon {
+    font-size: 65px;
+}
+
+@font-face {
+font-family: "knewave-outline";
+src: local(images/knewave-outline.otf) format('CFF');
+}
+
+.valueprop {
+	background-color: #1FA7E4;
+	margin-left: 70px;
+}
+.learnmore{
+	font-family: 'Oswald', sans serif;
+	font-size: 1.25em
+
+}
+
+body { padding-top: 70px; 
+}
+
+h1 {
+	font-family: 'Londrina Outline', cursive;
+	font-size: 75px;
+		}
+
+h2 h4 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 28px
+	}
+
+	.learn {
+		position: absolute;
+		bottom: -50px;
+	}
+
+.container2 {
+		position: relative;
+		top: 35px;
+	}
+
+.tagline {
+		position: relative;
+		top: 25px;
+	}
+
+.VPfont{
+	text-align: center;
+	font-family: 'Oswald'
+	}
